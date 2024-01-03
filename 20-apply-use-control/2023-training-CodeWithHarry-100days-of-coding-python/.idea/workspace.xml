@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bd83b5c-886e-424b-b54f-196736c6ce2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03 Day3 - Modules and Pip/master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 Day4 - Our First Program/master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Day5 - Comments and Print/master.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/2023-found-by-me.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/Chat-Tempalte.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-1-Python Syntax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-10-Python Dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-11-Python If ... Else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-12-Python While Loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-13-Python For Loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-14-Python Functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-15-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-16-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-17-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-18-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-19-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-2-Python Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-20-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-3-Python Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-4-Python Casting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-5-Python Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-6-Python Operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-7-Python Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-8-Python Tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-my-plan-my-practice/code-9-Python Sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/.idea/2023-programms-geeksforgeeks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/code_1_add two numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/code_2_maximum of two numbers in python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-geeksforgeeks/type_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/2023-programms-programmiz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_10_is_positive_negative_or_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_11_is_odd_or_even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_12_is_leap_year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_13_lasgest_among_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_14_check_prime_or_not.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_14_check_prime_or_not_using_flag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_15_prime_in_interval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_1_print_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_2_add_two_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_2_add_two_numbers_one_liner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_2_add_two_numbers_user_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_3_find_a_square_root.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_4_find_area_of_a_triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_5_solve_quadratic_equation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_6_swap_two_variables_add_sub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_6_swap_two_variables_mul_div.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_6_swap_two_variables_with_temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_6_swap_two_variables_without_temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_7_random_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_8_kilos_to_miles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_8_miles_to_kilos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_9_celsius_to_fahrenheit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/code_9_fahrenheit_to_celsius.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-programmiz/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/.idea/2023-programms-w3schools.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_43_create-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_44_access-list-item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_45_change-the-value-of-a-list-item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_46_loop-through-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_47_check-if-a-list-item-is-exists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_48_get-the-length-of-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_49_add-an-item-to-the-end-of-the-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_50_add-an-item-at-specific-index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_51_remove-an-item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_52_remove-the-last-item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_53_remove-an-item-at-specific-index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_54_empty-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/10_Python Lists/code_55_use-the-list-constructor-to-make-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/1_Python Syntax/code_1_print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/1_Python Syntax/code_2_comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/1_Python Syntax/code_3_docstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/2_Python Variables/code_4_create_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/2_Python Variables/code_5_output_text_var.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/2_Python Variables/code_6_add_concat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/3_Python Numbers/code_10_create_sci_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/3_Python Numbers/code_11_create_complex_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/3_Python Numbers/code_7_object_type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/3_Python Numbers/code_8_create_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/3_Python Numbers/code_9_create_float.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/4_Python Casting/code_12_casting_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/4_Python Casting/code_13_casting_float.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/4_Python Casting/code_14_casting_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_14_get-the-character-of-the-position-1-of-a-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_15_get-the-character-of-the-position-2-to-5-of-a-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_16_remove-white-space-from-begining-or-end-of-a-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_17_return-the-length-of-a-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_18_convert-a-string-to-lower-case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_19_convert-a-string-to-upper-case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_20_replace-a-string-with-anotehr-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/5_Python Strings/code_21_split-a-string-into-substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_21_Addition operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_22_Substraction operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_23_Multiplication operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_24_Division operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_25_Modules operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/6_Python Operators/code_26_Assignment operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_26_the-if-statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_27_the-elif-statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_28_the-else-statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_29_shorthand-if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_30_shorthand-if-else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_31_the-and-keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/7_Python If Else/code_32_the-or-keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_33_the-for-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_34_loop-through-a-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_35_using-a-break-statement-in-a-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_36_using-a-continue-statement-in-a-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_37_using-a-range-function-in-a-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_38_else-in-for-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/8_Python For Loop/code_39_nested-for-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/9_Python While Loop/code_40_the-while-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/9_Python While Loop/code_41_using-the-break-statement-in-a-while-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/9_Python While Loop/code_42_using-the-continue-statement-in-a-while-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-programms-w3schools/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/2023-training-CodeWithHarry-python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/1. Chapter 1/01_learning_time_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/1. Chapter 1/02_practice_time_twinkle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/1. Chapter 1/03_practice_time_module_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/1. Chapter 1/04_practice_time_list_directory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/1. Chapter 1/play.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/01_oops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/02_railway_oops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/03_game_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/04_employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/05_instance_class_attributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/06_self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/07_static_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/08_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/09_pr_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/10_pr_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/11_pr_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/12_pr_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/13_pr_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/14_pr_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/10. Chapter 10/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/01_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/02_single_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/03_multiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/04_multilevel_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/05_super.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/06_class_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/07_property_decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/08_operator_overloading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/09_other_dunder_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/10_pr_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/11_pr_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/12_pr_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/13_pr_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/14_pr_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/15_pr_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/16_pr_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/11. Chapter 11/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/01_try.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/02_handling_different_exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/03_raising_exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/04_try_with_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/05_try_except_finally.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/08_global.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/09_enumerate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/10_list_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/11_pr_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/12_pr_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/13_pr_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/14_pr_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/15_pr_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/m06_file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/m07_file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/12. Chapter 12/tables.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/01_virtualenv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/02_lambda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/03_join.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/04_format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/05_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/06_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/07_reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/08_pr_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/09_pr_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/10_pr_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/11_pr_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/13. Chapter 13/12_pr_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/01_learning_time_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/02_learning_time_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/03_learning_time_typecasting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/04_learning_time_input_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/05_practice_time_add_2_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/06_practice_time_remainder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/2. Chapter 2/07_practice_time_avg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/01_learning_time_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/02_learning_time_string_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/03_learning_time_string_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/04_learning_time_escape_sequences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/05_practice_time_enter_your_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/06_practice_time_write_a_letter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/07_practice_time_find_double_space.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/08_practice_time_replace_double_space.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/3. Chapter 3/09_practice_time_formatted_letter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/01_learning_time_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/02_learning_time_list_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/03_learning_time_list_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/04_learning_time_tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/05_learning_time_tuple_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/06_practice_time_store_fruits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/07_practice_time_marks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/08_practice_time_tuple_change_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/4. Chapter 4/09_practice_time_sum_a_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/01_learning_time_dictionary_syntax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/02_learning_time_dictionary_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/03_learning_time_sets_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/04_learning_time_empty_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/05_learning_time_set_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/06_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/07_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/08_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/09_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/5. Chapter 5/10_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/01_learning_time_conditionals1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/01_learning_time_conditionals2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/02_learning_time_if_else_quick_quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/03_learning_time_logical_and_relational_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/04_learning_time_in_and_is.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/05_learning_time_is_else_optional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/06_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/07_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/08_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/09_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/6. Chapter 6/10_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/01_learning_time_while_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/02_learning_time_quick_quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/03_learning_time_print_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/04_learning_time_print_list_for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/05_learning_time_range_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/06_learning_time_for_with_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/07_learning_time_break_statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/08_learning_time_continue_statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/09_learning_time_pass_statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/10_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/11_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/12_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/13_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/14_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/15_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/7. Chapter 7/16_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/01_learning_time_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/02_learning_time_quick_quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/03_learning_time_default_arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/04_learning_time_factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/05_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/06_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/07_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/08_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/09_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/8. Chapter 8/10_practice_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_01_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_02_readline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_03_write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_04_with.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_05_pr_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_06_game_pr_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_07_pr_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_08_pr_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_09_pr_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_10_pr_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_11_pr_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_12_pr_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_13_pr_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_14_pr_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/09_15_pr_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/another.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/copy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/hiscore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/poems.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/renamed_by_python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tables/Multiplication_table_of_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/9. Chapter 9/this.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 2/hiscore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 2/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-CodeWithHarry-python/Project 3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/.idea/2023-training-TechWorldWithNana-python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/OOP - Classes &amp; Objects/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/OOP - Classes &amp; Objects/post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/OOP - Classes &amp; Objects/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/how-api-works/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/project_1_time_till_deadline/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/project_2_work_with_spredsheet/inventory.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/project_2_work_with_spredsheet/inventory_solution.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/project_2_work_with_spredsheet/inventory_with_total_value.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/project_2_work_with_spredsheet/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_10_sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_11_dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_12_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_13_module_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_14_builtin_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_1_strings-numbers-variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_2_user-input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_3_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_4_function_with_return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_5_do_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_6_conditionals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_7_error_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_8_while_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-TechWorldWithNana-python/python_9_list_and_for_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/2023-training-The Complete Python Pro Bootcamp -100days-of-code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/Day-1-Project-Band Name Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/Exercise-1-Printing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/Exercise-2-Debugging Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/Exercise-3-Input Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/Exercise-4-Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 01 - Day1 - 29-07-23 - Beginner - Working with Variable in Python to Manage Data/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 02 - Day2 - 30-07-23 - Beginner - Understanding Data Types and How to Manipulate Strings/Day-2-Project-Tip-Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 02 - Day2 - 30-07-23 - Beginner - Understanding Data Types and How to Manipulate Strings/Exercise-1-Data Types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 02 - Day2 - 30-07-23 - Beginner - Understanding Data Types and How to Manipulate Strings/Exercise-2-BMI Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 02 - Day2 - 30-07-23 - Beginner - Understanding Data Types and How to Manipulate Strings/Exercise-3-Life in Weeks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 02 - Day2 - 30-07-23 - Beginner - Understanding Data Types and How to Manipulate Strings/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Day-3-Project-Treasure-Island.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Exercise-1-Odd or Even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Exercise-2-BMI2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Exercise-3-Leap-Year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Exercise-4-Pizza-Order-Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/Exercise-5-Love-Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 03 - Day3 - 31-07-23 - Beginner - Control Flow and Logical Operators/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/Day-4-Project-Rock Paper Scissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/Exercise-1-Heads or Tails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/Exercise-2-Banker Roulette.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/Exercise-3-Treasure Map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 04 - Day4 - 01-08-23 - Beginner - Randomization and Python Lists/pivalue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/Day 5 - Project - Create a Password Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/Exercise 1 - Average Height.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/Exercise 2 - High Score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/Exercise 3 - Adding Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/Exercise 4 - FizzBuzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Section 05 - Day5 - 08-08-23 - Beginner - Python Loops/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-The Complete Python Pro Bootcamp -100days-of-code/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - Assessment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - Introduction to Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - Print Formatting with Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - Python numbers .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - String properties and methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Obejct and Data Structure Basics - Variable assignements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Basic Input - Output - files in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Boolean in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Dictionaries in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Lists in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Sets in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/00 - Python Object and Data Structure Basics - Tuples in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/01 - Python Comparison Operators - Comparison operators in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/01 - Python Comparison Operators - Logical operators in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - Assessment .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - For Loops in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - If, Elif and Else Statement in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - List Comprehension.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - Useful operatrors in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/02 - Python Statements - While Loops in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/03 - Methods and Functions - Functions with Logic .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/03 - Methods and Functions - Introduction to Functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/03 - Methods and Functions - Methods and Documentation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-training-ZtoHonUD-code-notebooks/03 - Methods and Functions - Tuple Unpacking with Function.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../i-am-learning-python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-installation.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2LJxJRkK1chZOs6dMY9oSJTj4Aj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/GITRepos/i-am-learning-python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GITRepos\i-am-learning-python\2023-training-CodeWithHarry-100days-of-coding-python\05 Day5 - Comments and Print" />
+      <recent name="D:\GITRepos\i-am-learning-python\2023-training-CodeWithHarry-100days-of-coding-python\04 Day4 - Our First Program" />
+      <recent name="D:\GITRepos\i-am-learning-python\2023-training-CodeWithHarry-100days-of-coding-python\03 Day3 - Modules and Pip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.master">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023-training-CodeWithHarry-100days-of-coding-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19 Day 19 - break and continue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19 Day 19 - break and continue/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023-training-CodeWithHarry-100days-of-coding-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04 Day4 - Our First Program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04 Day4 - Our First Program/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023-training-CodeWithHarry-100days-of-coding-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Day10 - Taking User Input" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Day10 - Taking User Input/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023-training-CodeWithHarry-100days-of-coding-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 Day11 - Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 Day11 - Strings/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023-training-CodeWithHarry-100days-of-coding-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 Day3 - Modules and Pip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 Day3 - Modules and Pip/master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.master" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd83b5c-886e-424b-b54f-196736c6ce2d" name="Changes" comment="" />
+      <created>1675602914120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675602914120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
